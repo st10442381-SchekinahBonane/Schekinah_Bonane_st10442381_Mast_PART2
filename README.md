@@ -1,0 +1,5 @@
+Home Screen: This is the main screen where users can see all the dishes added to the menu. It shows important details like the dish name, description, course (like starters, mains, and desserts), and price. Users can easily go to the Add Menu screen to add new dishes or to the Filter Menu screen to look for specific items. The Home screen gives a good overview of all menu items and encourages users to add or filter dishes.
+
+Add Menu Screen: On this screen, users can enter details about new dishes. They can fill out information like the dish name, description, course type, and price. When they submit this information, the new dish is added to the menu, and they go back to the Home screen to see the updated list.
+
+Filter Menu Screen: This screen allows users to filter the dishes by course type. For example, they can choose to see only starters or desserts. This makes it easy for users to find what they are looking for. After selecting the course, the app shows only the dishes that match.
