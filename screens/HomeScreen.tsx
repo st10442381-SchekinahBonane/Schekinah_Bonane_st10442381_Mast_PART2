@@ -10,7 +10,7 @@ export default function HomeScreen({ navigation, route }: HomeScreenProps) {
   const [menuItems, setMenuItems] = useState<{ dishName: string, description: string, course: string, price: number }[]>([]);
 
   useEffect(() => {
-    // Check if newItem exists and is defined in route.params
+    
     if (route.params?.newItem) {
       setMenuItems((prevItems) => [...prevItems, route.params.newItem as { dishName: string; description: string; course: string; price: number }]);
     }
